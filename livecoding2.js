@@ -1,11 +1,11 @@
-var circle = $('div#circle');
+var span = $('span');
 
-circle.on({
+span.on({
 
   "mouseenter" : function(){
-    circle.show();
+    span.show();
   },
   "mouseleave" : function(){
-    circle.hide();
+    span.hide();
   }
 });
