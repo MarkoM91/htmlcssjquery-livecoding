@@ -13,4 +13,8 @@ body{
   left:10%;
   top: 75px;
   transform: translateX(-10%);
+  text-align: center;
+  line-height: 500px;
+  color: white;
+  font-size: 50px;
 }
