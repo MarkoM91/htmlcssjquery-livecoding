@@ -1,8 +1,8 @@
 var span = $('span');
+var circle = $('div#circle');
 
 
-
-span.on({
+circle.on({
 
   "mouseenter" : function(){
     span.show();
