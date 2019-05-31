@@ -1,7 +1,6 @@
 var span = $('span');
 var circle = $('div#circle');
 
-
 circle.on({
 
   "mouseenter" : function(){
